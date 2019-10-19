@@ -1,0 +1,18 @@
+{
+  "name": "versutia-proxy",
+  "version": "1.0.0",
+  "description": "A proxy server for Versutia services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy",
+    "nationstates"
+  ],
+  "author": "mastercoms",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
